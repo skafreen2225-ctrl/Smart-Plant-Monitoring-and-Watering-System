@@ -37,6 +37,13 @@ In addition to automation, the project incorporates interactive OLED expressions
 * Water Reservoir
 * Power Supply
 
+## Tools Used
+* ESP32
+* Arduino IDE
+* EasyEDA
+* Onshape
+* Blynk IoT
+
 ## Software and Design Tools
 
 * Arduino IDE
